@@ -79,7 +79,7 @@
                 <ImageView
                     android:id="@+id/imgDish"
                     android:layout_width="match_parent"
-                    android:layout_height="@dimen/_180sdp"
+                    android:layout_height="@dimen/_200sdp"
                     android:scaleType="fitXY"
                     app:layout_constraintTop_toTopOf="parent" />
 

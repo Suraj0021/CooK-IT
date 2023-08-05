@@ -59,8 +59,8 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintTop_toBottomOf="@id/toolbarLayout"
         app:defaultNavHost="true"
-        android:layout_marginTop="@dimen/_80sdp"
-        android:layout_marginBottom="@dimen/_40ssp"
+        android:layout_marginTop="@dimen/_40ssp"
+        android:layout_marginBottom="@dimen/_20ssp"
         app:navGraph="@navigation/nav_graph" />
 
     <com.google.android.material.bottomnavigation.BottomNavigationView
