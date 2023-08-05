@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "528002766440",
+    "project_id": "cook-it-658f5",
+    "storage_bucket": "cook-it-658f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528002766440:android:110e24a3dbe1403925cddd",
+        "android_client_info": {
+          "package_name": "com.suraj.cook_it"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528002766440-8utqf1lken876abs89h7c7srqqo3aces.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr6rSwf-mg4X9OO2Ypz_0HbPkTprk7Ldc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528002766440-8utqf1lken876abs89h7c7srqqo3aces.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
